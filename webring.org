@@ -64,6 +64,7 @@
 - https://www.amazon.com/Dynamic-Bible-Peter-Han/dp/B07NFDXSKJ/ref=sr_1_1?keywords=The+Dynamic+Bible&qid=1579740958&s=books&sr=1-1 - Peter Han - Dynamic Bible
 - https://www.amazon.com/How-Draw-sketching-environments-imagination/dp/1933492732/ - Scott Robertson - How To Draw: drawing and sketching objects and environments from your imagination -
 - https://www.amazon.com/Dream-Dance-Art-Ed-Emshwiller/dp/1944860290/ - Dream Dance: The Art of Ed Emshwiller
+- https://www.amazon.com/Framed-Drawing-Techniques-Mastering-Storytelling/dp/1624650406/ - Framed Drawing Techniques: Mastering Ballpoint Pen, Graphite Pencil, and Digital Tools for Visual Storytelling by Marcos Mateu-Mestre
 * Art Reference Links
 - https://sites.google.com/site/ourwici/ - Goldmine for art learning, and wonderful wiki page to learn art techniques
 - https://www.wikiart.org/ - Wiki type site that contains many famous pieces of artwork for easy viewing access
@@ -139,6 +140,7 @@
 - https://www.youtube.com/c/PaulIngbretson/videos - Paul Ingbretson's YouTube videos on academic art
 - http://www.peterandrewjones.net/iacg.htm - Art portfolio website of artist, Peter Andrew Jones
 - https://www.galamot.com/pixel-art.html - Art portfolio website of pixel artist, 'Galamot'
+- http://www.fischart.com/ - Art portfolio website of illustrator, Scott M. Fischer
 * BBS Links
 - https://www.telnetbbsguide.com/ - Great guide site for public BBS's to visit
 - http://archives.thebbs.org/ - Archives of cool BBS materials (ANSi art, archive utilities, door games, etc.)
@@ -864,6 +866,7 @@ https://frandallfarmer.github.io/neohabitat-doc/docs// - 'Neohabitat', a site th
 - https://resources.openmpt.org/tracker_handbook/handbook.htmf - Site dedicated to teaching how to use music tracker software to create music
 - https://github.com/jpcima/ADLplug - 'ADLplug' synthesizer plugin for ADLMIDI and OPNMIDI that gives users access to classic FM synthesizer tones
 - https://asb2m10.github.io/dexed/ - 'dexed' FM synthesizer plugin, a multi-platform, multi-format plugin synth that is closely modeled on the Yamaha DX7
+- https://sfzinstruments.github.io/ - SFZ instrument plugins (some free, some paid) that can be used for Linux based DAWs
 * Pen Links (Fountain Pens, Ballpoint Pens, Technical Ink Pens, etc.)
 - https://www.jetpens.com/Pens/ct/1318 - Probably the most comprehensive and glorious webpage on pens that mankind has ever known
 - https://www.cultpens.com/ - Another huge distributor website of pens and pen accessories
@@ -1534,3 +1537,4 @@ https://frandallfarmer.github.io/neohabitat-doc/docs// - 'Neohabitat', a site th
 #+HTML: </div>
 * YouTube Links
 - https://www.youtube.com/c/TheGameShowChannel/playlists - 'The Game Show' YouTube channel that has a ton of old game shows to watch
+- https://www.youtube.com/c/MyLesson007/videos - 'My Lesson' YouTube channel that has a ton of free online videos of full courses to watch
