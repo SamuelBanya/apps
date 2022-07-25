@@ -507,6 +507,8 @@
 - https://github.com/plexus/chemacs2 - 'Chemacs2', an Emacs package that acts as an an Emacs profile switcher to make it easy to run multiple Emacs configurations side by side
 - https://github.com/daedreth/ihsec - 'ihsec' (I Hate Switching Emacs Configs), an Emacs package that allows you to switch Emacs configs on the fly
 - https://github.com/martenlienen/xresources-theme - 'xresources-theme', an Emacs package that allows you to use your current '~/.xresources' file as the basis for an Emacs theme
+- https://github.com/larkery/emacs/blob/master/site-lisp/theme-to-xresources.el - 'theme-to-xresources.el', a random Emacs Elisp script that converts an Emacs theme to an '~/.Xresources' file
+- https://github.com/jcaw/theme-magic - 'theme-magic', an Emacs package that forces '~/.Xresources' to be in sync with your current Emacs theme
 - https://github.com/dbordak/telephone-line - 'telephone line', an Emacs package that is an implementation of Powerline for Emacs with (optional) baked-in evil support, antialiased separators, and an easy configuration language which makes it trivial to write your own themes
 - https://github.com/Malabarba/smart-mode-line - 'smart mode line', a mode-line for Emacs which aims to be easy to read from small to large monitors by using colors, a prefix feature, and smart truncation
 - https://github.com/jonathanchu/emacs-powerline - 'emacs powerline', a fork of powerline.el from http://www.emacswiki.org/emacs/powerline.el, which is ultimately inspired by vim-powerline
